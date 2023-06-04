@@ -1,4 +1,4 @@
-![status badge](https://github.com/replomancer/gh_actions_demo/actions/workflows/testing.yml/badge.svg)
+![status badge](https://github.com/replomancer/gh_actions_demo/actions/workflows/test.yml/badge.svg)
 
 # Header
 
